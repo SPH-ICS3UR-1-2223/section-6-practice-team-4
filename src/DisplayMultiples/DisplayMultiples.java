@@ -10,19 +10,7 @@ public class DisplayMultiples {
     	for (int counter=1;counter<=12;counter++) {
     		System.out.println(number+" * "+counter+" = "+(number*counter));
     	}
-//    System.out.println(number + "* 1");
-//    System.out.println(number + "* 2");
-//    System.out.println(number);
-//    System.out.println(number);
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
-//    System.out.println();
+
     }
 
 }
