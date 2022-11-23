@@ -10,10 +10,10 @@ public class ValidatePin {
     	System.out.println("INSERT PIN");
     	int guess =  in.nextInt();
     	while (guess!=secretNumber) {
-    		System.out.println("WRONG");
+    		System.out.println("Incorrect");
     		guess = in.nextInt();
     	}
     	
-    	System.out.println("CORRECT");
+    	System.out.println("Correct!");
     }
 }
